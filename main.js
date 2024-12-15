@@ -45,5 +45,3 @@ function knightMoves(start, end) {
 		}
 	}
 }
-
-console.log(knightMoves([0, 0], [7, 0]));
